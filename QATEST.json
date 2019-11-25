@@ -1,0 +1,46 @@
+{
+"Dato_cliente": {
+	"Nombre": "Isabel",
+	"Apellido": "Miralles",
+	"Direccion": "Santiago",
+	"Email": "isa.miralles1986@gmail.com",
+	"Telefono": 951338844,
+	"RUT": 251800642
+},
+"Dato_perfil": {
+	"Cuenta_ppal": 999999,
+	"Tipo_cliente": "Principal",
+	"Tarjeta_debito": 4567879876563452
+},
+"Dato_Sucursal": {
+	"Sucursal_nro": 234,
+	"Ejecutivo": "Marcela",
+	"Telefono_ejec": 2345432,
+	"Direccion_suc": "Ahumada"
+},
+"Dato_productos": {
+	"Tiene_prod": true,
+	"Tipo_producto": ["Consumo","Hipotecario","Linea_emergencia","Linea_sobregiro"],
+      "Puntos": 2390,
+      "Tarjeta_credito": 4966478976564352
+  },
+  "Datos_seguros": {
+    "Tiene_prod": true,
+    "SOAP": "SOAP",
+    "Seguro_vehiculo": "Falabella",
+    "Seguro_fraude2": "Falabella",
+    "Seguro_hogar": "Falabella",
+    "Seguro_vida": "Falabella"
+  },
+  "Datos_fondos": {
+    "Fondo_mutual": "Fondo",
+    "Ahorro_previsional": 123456,
+    "ctaRentaDiaria": "cuenta"
+  },
+"Datos_penalizaciones": {
+    "InteresesMora_Sobregiro": 7869,
+    "InteresMora_TarjetaCredito": 9842,
+    "InteresMora_Consumo": 6722,
+    "InteresMora_Hipotecario": 45367
+  }
+}
